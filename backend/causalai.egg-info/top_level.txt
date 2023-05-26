@@ -1,7 +1,0 @@
-build
-causalai
-docs
-latest
-node_modules
-tutorials
-ui
