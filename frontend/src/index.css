@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.field {
+  font-size: 20px;
+  margin-bottom: 20px;
+  position: center;
+  text-align: center;
+}
+
+.field_file {
+  margin-left: 50px;
+  font-size: 20px;
+  margin-bottom: 40px;
+  position: center;
+  text-align: center;
+}
+
+.field_inference_value {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.field_inference_value_column {
+  margin: auto;
+  position: center;
+  display: inline;
+}
+
+.field_inference_value_element {
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.field_inference_value_properties {
+  display: block;
+}
+
+.div_buttons_add_remove_variables {
+
+}
+
+.button_add_remove_variables {
+  cursor: pointer;
+  display: inline-block;
+}
+
+.graph {
+  position: center;
+}
